@@ -38,3 +38,7 @@ module.exports = {
     }
   }
 };
+
+// heroku addons:create heroku-postgresql:hobby-dev
+// make the .env file, grab the heroku url and save to the DATABASE_URL
+// PRODUCTION ENVIRONMENT!!
